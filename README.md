@@ -1,3 +1,9 @@
+
+<head>
+<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+
+</head>
+
 - 👋 Hi, I’m @kpabasara12003
 - 👀 I’m interested in software development and electric
 - 🌱 I’m currently learning software engineering 
@@ -14,6 +20,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpabasara12003" alt="kpabasara12003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kusumindapabasara/" target="_blank">
+    <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/>
+  </a><p style="font-family: Poppins; font-weight:700;">kusumindapabasara</p></div>
+  
+  
+  <div align="center">
+    <img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email"/>
+  <p style="font-family: Poppins; font-weight:700;">kusumindapabasara@gmail.com</p>
+</div>
+
 <p align="left">
 </p>
 
