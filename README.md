@@ -4,9 +4,56 @@
 
 </head>
 
-# 💫 About Me
-👋 Hi there! I'm an undergraduate Software Engineering student passionate about building efficient, scalable, and meaningful software systems.<br><br>💻 I work across:<br>- Server-side development and Database design<br>- System design <br>- System architecture and software-hardware integration<br>- Machine Learning and intelligent automation<br>- Robotics<br><br>⚙️ I love combining software, electronics, and mechanical systems to create real-world solutions.<br>🌱 Currently exploring advanced backend design, embedded software systems, and applied ML.<br>📫 Let’s connect and collaborate on projects that push the limits of technology.<br>😄 Pronouns: he/him<br><br>
+# 👨‍💻 Hi, I'm Pabasara Jayawickrama
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;System+Designer;AI+%7C+RAG+%7C+Agentic+Systems;Cloud+%26+Distributed+Systems;IoT+%26+Robotics+Enthusiast" />
+</p>
+
+
+I am a backend-focused computing undergraduate who engineers scalable systems, builds high-performance APIs, and develops intelligent applications that bridge software with real-world systems.
+
+I specialize in designing backend architectures that are not just functional—but **scalable, maintainable, and production-ready**.
+
+
+*  Architect and develop **robust backend systems** using modern frameworks
+*  Build and integrate **RESTful APIs & real-time systems**
+*  Deploy and manage applications on **cloud platforms**
+*  Design **system integrations & automation workflows** across services
+*  Develop **AI-powered applications (RAG systems & Agentic AI)**
+
+
+
+##  Engineering Mindset
+
+I approach development with a **system-level perspective**:
+
+* Think in terms of **scalability, performance, and architecture**
+* Choose technologies based on **use-case, not hype**
+* Focus on **clean design, modularity, and maintainability**
+* Build systems that are **ready for real-world usage—not just demos**
+
+
+##  Beyond Software
+
+I am deeply interested in how software interacts with the physical world:
+
+*  **Robotics Systems**
+*  **IoT & Smart Devices**
+*  **Automation & Connected Systems**
+
+Exploring how intelligent software can control, automate, and enhance real-world environments.
+
+
+
+##  Current Focus
+
+*  Advanced **RAG + LLM-based systems**
+*  **Scalable backend architectures**
+*  **Cloud-native application design**
+*  **Real-time and distributed systems**
+
+---
 
 <p align="center">
   <img src="https://www.shutterstock.com/image-vector/back-end-development-banner-concept-260nw-422011339.jpg" alt="MasterHead" width="60%"/>
@@ -55,6 +102,15 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kpabasara12003&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kpabasara12003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kpabasara12003&icon=0&color=0)](https://visitcount.itsvg.in)
