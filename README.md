@@ -23,17 +23,6 @@ I specialize in designing backend architectures that are not just functional—b
 *  Develop **AI-powered applications (RAG systems & Agentic AI)**
 
 
-
-##  Engineering Mindset
-
-I approach development with a **system-level perspective**:
-
-* Think in terms of **scalability, performance, and architecture**
-* Choose technologies based on **use-case, not hype**
-* Focus on **clean design, modularity, and maintainability**
-* Build systems that are **ready for real-world usage—not just demos**
-
-
 ##  Beyond Software
 
 I am deeply interested in how software interacts with the physical world:
